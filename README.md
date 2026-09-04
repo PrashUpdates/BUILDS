@@ -2,7 +2,7 @@
 
 ---
 
-🔗 **2)** [Password Generator](https://paletteflow.prashantupdate.workers.dev/)
+🔗 **2)** [PaletteFlow](https://paletteflow.prashantupdate.workers.dev/)
 
 
 
