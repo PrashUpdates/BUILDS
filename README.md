@@ -1,3 +1,3 @@
-🔗 **Website:** [Password Generator](https://password-generator.prashantupdate.workers.dev/)
+🔗 ** 1:** [Password Generator](https://password-generator.prashantupdate.workers.dev/)
 
 ---
