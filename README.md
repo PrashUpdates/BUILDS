@@ -1,4 +1,5 @@
-<h1>=> Password Generator</h1> [Password Generator](https://password-generator.prashantupdate.workers.dev/)
+<h1>=> Password Generator</h1> 
+[Password Generator](https://password-generator.prashantupdate.workers.dev/)
 
 ---
 
