@@ -7,14 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=for-the-badge&logo=github" alt="Maintained" />
-</p>
-
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=for-the-badge&logo=github" alt="Maintained" />
 </p>
 
 ---
