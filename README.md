@@ -2,7 +2,6 @@
 
 A collection of modern, clean, and reusable CSS UI components built to speed up frontend development.
 
-<hr>
 
 ## 🚀 About This Repository
 
