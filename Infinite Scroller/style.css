@@ -1,0 +1,147 @@
+/* ================================
+   Google Fonts
+================================ */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&family=Sora:wght@100..800&display=swap');
+
+
+/* ================================
+   Reset
+================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* ================================
+   Body
+================================ */
+body {
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* ================================
+   Main Container
+================================ */
+.main-container {
+  width: 100%;
+  max-width: 800px;
+
+  overflow: hidden;
+}
+
+
+/* ================================
+   Scrolling Container
+================================ */
+.divs-group {
+  width: max-content;
+  height: 240px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 10px;
+
+  background: transparent;
+
+  animation: scroll 10s linear infinite;
+}
+
+
+/* ================================
+   Pause Animation On Hover
+================================ */
+.divs-group:hover {
+  animation-play-state: paused;
+}
+
+
+/* ================================
+   Item Groups
+================================ */
+.group {
+  display: flex;
+  gap: 10px;
+}
+
+
+/* ================================
+   Individual Items
+================================ */
+.box {
+  flex: 0 0 auto;
+
+  width: 260px;
+  height: 170px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(0, 0, 0, 0.1);
+  color: white;
+
+  border-radius: 7px;
+
+  font-family: Poppins, sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+
+  overflow: hidden;
+}
+
+
+/* ================================
+   Image Support
+================================ */
+
+/*
+.box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+*/
+
+
+/* ================================
+   Infinite Scroll Animation
+   Right → Left
+================================ */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+
+/* ================================
+   Left → Right Scroll
+   Uncomment this and comment out
+   the animation above if needed.
+================================ */
+
+/*
+@keyframes scroll {
+  0% {
+    transform: translateX(-50%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+*/
+
