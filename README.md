@@ -2,7 +2,6 @@
 
 A collection of modern, clean, and reusable CSS UI components built to speed up frontend development.
 
----
 
 ## 🚀 About This Repository
 
@@ -13,7 +12,6 @@ Each component is placed in its **own folder** and includes:
 - `style.css` (Styling)
 - `README.md` (Quick preview/guide for that component)
 
----
 
 ## 📁 Folder Structure
 
