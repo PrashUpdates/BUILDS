@@ -1,6 +1,6 @@
 <div align="center">
 
-# **B U I L D S 🧩**
+# <strong>B U I L D S 🧩</strong>
 
 <p align="center">
   <b>A curated vault of modular UI components, interactive web apps & frontend experiments.</b>
