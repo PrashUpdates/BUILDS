@@ -1,4 +1,4 @@
-# 🎨 CSS Components Vault
+# 📦 CSS Box
 
 A collection of modern, clean, and reusable CSS UI components built to speed up frontend development.
 
@@ -18,7 +18,7 @@ Each component is placed in its **own folder** and includes:
 ## 📁 Folder Structure
 
 ```text
-.
+css-box/
 ├── Component-Folder-1/
 ├── Component-Folder-2/
 ├── Component-Folder-3/
