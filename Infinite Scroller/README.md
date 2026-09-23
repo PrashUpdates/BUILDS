@@ -1,7 +1,6 @@
 # ♾️ Infinite Scroller
 
-A clean and smooth infinite horizontal auto-scrolling container built using pure HTML and CSS.
-
+A clean and smooth infinite horizontal auto-scrolling container built using pure HTML and CSS, ideal for displaying logos, testimonials, brands, and other continuously scrolling content.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
