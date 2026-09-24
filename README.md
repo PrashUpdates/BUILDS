@@ -50,7 +50,7 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
  ┃ ┗ 📜 README.md
  ┣ 📂 <project-folder-2>
  ┃ ┗ ...
- ┗ 📜 README.md
+ ┗ 📜 README.md```
 
 
 
