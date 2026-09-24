@@ -39,7 +39,7 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ---
 
-<a href="./Infinite%20Scroller" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">Infinite Scroller</a>
+[📂 Open Infinite Scroller](./Infinite%20Scroller)
 
 
 ---
