@@ -39,7 +39,7 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ---
 
-## 📂 <span>&nbsp;Repository Architecture</span>
+### 📂<span>&nbsp;Structure</span>
 
 ```text
 📦 builds
