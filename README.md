@@ -39,8 +39,8 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ---
 
-<a href="Github.com/PrashUpdates/BUILDS/tree/main/Infinite Scroller
-" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">Infinite Scroller</a>
+<a href="./Infinite%20Scroller" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">Infinite Scroller</a>
+
 
 ---
 
