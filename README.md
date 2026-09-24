@@ -57,7 +57,32 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ## 🚀 <span>&nbsp;Projects Showcase</span>
 
-| Project Name | Description | Tech Used | Action |
-| :--- | :--- | :---: | :---: |
-| **Infinite Scroller** | Seamless infinite scrolling component built with CSS & JS. | `HTML` `CSS` `JS` | [<img src="https://img.shields.io/badge/Explore_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="28" />](./Infinite%20Scroller) |
+---
+
+### 📌 Infinite Scroller
+**A seamless infinite scrolling component built using CSS animations and JavaScript DOM manipulation.**
+
+<p>
+  <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code>
+</p>
+
+<a href="./Infinite%20Scroller">
+  <img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="32" />
+</a>
+
+---
+
+### 📌 Project 2 Name
+**Short description about project 2.**
+
+<p>
+  <code>HTML5</code> &nbsp; <code>CSS3</code>
+</p>
+
+<a href="./Project-2-Folder">
+  <img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="32" />
+</a>
+
+---
+
 
