@@ -50,9 +50,9 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
  ┃ ┗ 📜 README.md
  ┣ 📂 <project-folder-2>
  ┃ ┗ ...
- ┗ 📜 README.md```
+ ┗ 📜 README.md
 
-
+---
 
 <a href="" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">Infinite Scroller</a>
 
