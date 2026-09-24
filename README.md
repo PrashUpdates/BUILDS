@@ -43,7 +43,7 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ```text
 📦 builds
- ┣ 📂 <project-folder-1>
+ ┣ 📂 Infinite Scroller
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 style.css
  ┃ ┣ 📜 script.js
@@ -51,8 +51,3 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
  ┣ 📂 <project-folder-2>
  ┃ ┗ ...
  ┗ 📜 README.md
-
----
-
-<a href="" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px;">Infinite Scroller</a>
-
