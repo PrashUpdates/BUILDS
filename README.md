@@ -72,16 +72,14 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ---
 
-### 📌 Project 2 Name
-**Short description about project 2.**
+## 🚀 <span>&nbsp;Projects Showcase</span>
 
-<p>
-  <code>HTML5</code> &nbsp; <code>CSS3</code>
-</p>
 
-<a href="./Project-2-Folder">
-  <img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="32" />
-</a>
+### 📌 Infinite Scroller &nbsp;&nbsp; [<img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="28" align="center" />](./Infinite%20Scroller)
+
+---
+
+### 📌 Project Name 2 &nbsp;&nbsp; [<img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="28" align="center" />](./Folder%20Name)
 
 ---
 
