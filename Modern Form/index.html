@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Form</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+
+  <!-- Form Container -->
+  <div class="container">
+
+    <form action="" class="form-container">
+
+      <!-- Heading -->
+      <div class="form-heading">
+        <h2>Modern Form</h2>
+      </div>
+
+      <!-- Username -->
+      <div class="form-group">
+        <input type="text" id="input-text" name="username" placeholder="">
+        <label for="input-text">Username</label>
+      </div>
+
+      <!-- Email -->
+      <div class="form-group">
+        <input type="email" id="input-email" name="email" placeholder="">
+        <label for="input-email">Email</label>
+      </div>
+
+      <!-- Password -->
+      <div class="form-group">
+        <input type="password" id="input-password" name="password" placeholder="">
+        <label for="input-password">Password</label>
+      </div>
+
+      <!-- Address -->
+      <div class="form-textarea">
+        <textarea id="input-address" name="address" placeholder=" "></textarea>
+        <label for="input-address">Address</label>
+      </div>
+
+      <!-- Gender -->
+      <div class="form-gender">
+
+        <div class="gender-group">
+          <input type="radio" name="gender" id="male" value="male">
+          <label for="male">Male</label>
+        </div>
+
+        <div class="gender-group">
+          <input type="radio" name="gender" id="female" value="female">
+          <label for="female">Female</label>
+        </div>
+
+      </div>
+
+      <!-- Terms -->
+      <div class="form-terms">
+        <input type="checkbox" name="terms-checked">
+        I agree to the Terms and Conditions.
+        <abbr title="information">
+          <a href="#">ⓘ</a>
+        </abbr>
+      </div>
+
+      <!-- Buttons -->
+      <div class="form-buttons">
+        <button type="submit">Submit</button>
+        <button class="button2" type="reset">Clear</button>
+      </div>
+
+    </form>
+
+  </div>
+
+</body>
+
+</html>
