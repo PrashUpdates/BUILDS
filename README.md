@@ -29,7 +29,7 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ---
 
-## 🛠️ <span>&nbsp;Tech Stack & Capabilities</span>
+### 🪐<span>&nbsp;Tech Stack</span>
 
 | Icon | Technology | Use Case |
 | :---: | :--- | :--- |
