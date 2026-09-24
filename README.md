@@ -39,11 +39,6 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
 
 ---
 
-[📂 Open Infinite Scroller](./Infinite%20Scroller)
-
-
----
-
 ## 📂 <span>&nbsp;Repository Architecture</span>
 
 ```text
@@ -56,3 +51,11 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
  ┣ 📂 <project-folder-2>
  ┃ ┗ ...
  ┗ 📜 README.md
+```
+
+---
+
+| Project Name | Folder Link |
+| :--- | :--- |
+| **Infinite Scroller** | [<img src="https://img.shields.io/badge/View_Folder-007bff?style=flat-square&logo=github" />](./Infinite%20Scroller) |
+
