@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔄 Circle Loading Animation
+## 🪐 Circle Loading Animation
 
 <p align="center">
   <b>A clean and smooth circular loading animation built using pure HTML and CSS.</b>
