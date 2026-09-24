@@ -53,28 +53,10 @@ Welcome to **Builds**! This repository serves as a centralized hub for all my mi
  ┗ 📜 README.md
 ```
 
+---
 
 ## 🚀 <span>&nbsp;Projects Showcase</span>
 
-### 📌 Infinite Scroller
-**A seamless infinite scrolling component built using CSS animations and JavaScript DOM manipulation.**
-
-<p>
-  <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code>
-</p>
-
-<a href="./Circle%20Loading Animation">
-  <img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="32" />
-</a>
-
-### 📌 Circle Loading Animation
-**A seamless infinite scrolling component built using CSS animations and JavaScript DOM manipulation.**
-
-<p>
-  <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code>
-</p>
-
-<a href="./Infinite%20Scroller">
-  <img src="https://img.shields.io/badge/Open_Folder-007bff?style=for-the-badge&logo=github&logoColor=white" height="32" />
-</a>
-
+* **Infinite Scroller** — [<img src="https://img.shields.io/badge/Open_Folder-007bff?style=flat-square&logo=github&logoColor=white" height="20" align="center" />](./Infinite%20Scroller)
+* **Project Name 2** — [<img src="https://img.shields.io/badge/Open_Folder-007bff?style=flat-square&logo=github&logoColor=white" height="20" align="center" />](./Folder%20Name)
+* **Project Name 3** — [<img src="https://img.shields.io/badge/Open_Folder-007bff?style=flat-square&logo=github&logoColor=white" height="20" align="center" />](./Folder%20Name)
