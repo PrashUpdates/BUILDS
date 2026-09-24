@@ -25,7 +25,6 @@
 - ♾️ Infinite Rotation
 - 🎨 Easy to Customize
 - ⚡ Lightweight & Fast
-- 📱 Responsive Layout
 
 ---
 
